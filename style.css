@@ -1,0 +1,31 @@
+.black {
+  background-color: black;
+  width:100%;
+  height:2px;
+}
+.main1 {
+  background-color: lightgray;
+  width:40%;
+  float:left;
+}
+.main2 {
+  width:60%;
+  float:left;
+}
+.mainC1 {
+  width:40%;
+  float:left;
+}
+.mainC2 {
+  width:60%;
+  float:left;
+}
+.title {
+  border: solid 2px black;
+  padding: 2px;
+  border-radius: 30px; 
+}
+.mainV1 {
+  width:40%;
+  float:left;
+}
